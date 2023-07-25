@@ -1,12 +1,14 @@
-# Code-Refactoring
+# Marketing Agency Website
 ## Description
-The Horiseon website is a single-page website built with HTML and CSS. It consists of different sections that highlight the various services offered by Horiseon. The sections include:
-Search Engine Optimization
-Online Reputation Management
-Social Media Marketing
-# Technologies
+This project is the codebase for the marketing agency's website. The primary goal of this project is to ensure that the website adheres to accessibility standards and is optimized for search engines.
+## Accessibility Standards
+- The webpage uses appropriate semantic elements to represent the content's structure.
+- The HTML elements follow a logical structure that remains independent of styling and positioning.
+- The title element of the webpage provides a concise and descriptive title that accurately represents the content.
+## Technologies
 This code consist of HTML and CSS code.
-# Usage
-Once you have the website running locally, you can navigate through the different sections by clicking on the links in the navigation menu. The website provides information about Horiseon's services and the benefits they offer.
+## How to Use
+1. Clone this repository to your local machine.
+2. Open the index.html file in your web browser to view the website.
 # License
 This project is licensed under the MIT License.
